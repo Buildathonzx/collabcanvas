@@ -8,6 +8,10 @@ const theme = createTheme({
     secondary: {
       main: '#f50057',
     },
+    background: {
+      default: '#ffffff',
+      paper: '#ffffff',
+    },
   },
   components: {
     MuiButton: {
